@@ -33,7 +33,7 @@ public class Main {
 	public static void main(String[] args) throws IOException {
 		// TODO Auto-generated method stub
 
-		File input = new File("C:\\Users\\alpuy\\Desktop\\School\\CMPE414\\radikal.corpus_preprocessed");
+		File input = new File("radikal.corpus_preprocessed");
 		File infofile = new File("Info.txt");
 		File termsfile = new File("Terms.txt");
 		File docsfile = new File("Docs.txt");
